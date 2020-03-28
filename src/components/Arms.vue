@@ -4,6 +4,7 @@
       <div class="uk-container-small uk-align-center">
         <h1>{{ msg }}</h1>
         <button class="uk-button arms-button" v-on:click="getArms()">Get Arms!!!</button>
+        <a class="uk-button arms-button" href="https://github.com/YutaGoto/arms-randomizer">ソースコード</a>
         <hr>
         <div uk-grid>
           <div class="uk-width-1-3@s" v-for="arm in random_arms" :key="arm.name">
