@@ -1,5 +1,7 @@
 # arms-randomizer
 
+[![Actions Status](https://github.com/YutaGoto/arms-randomizer/workflows/vue-ci/badge.svg)](https://github.com/YutaGoto/arms-randomizer/actions)
+
 ## Build Setup
 
 ``` bash
