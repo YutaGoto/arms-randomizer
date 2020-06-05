@@ -1,24 +1,24 @@
-# arms-randomizer
+# hello
 
-[![Actions Status](https://github.com/YutaGoto/arms-randomizer/workflows/vue-ci/badge.svg)](https://github.com/YutaGoto/arms-randomizer/actions)
-
-## Build Setup
-
-``` bash
-# install dependencies
+## Project setup
+```
 yarn install
+```
 
-# serve with hot reload at localhost:8080
-yarn dev
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-# build for production with minification
+### Compiles and minifies for production
+```
 yarn build
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+### Lints and fixes files
+```
+yarn lint
+```
 
-## Attention
-
-このリポジトリは非公式のもので、完全に個人的な趣味で作っているものです。
-
-公式とは一切関係がありません。
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

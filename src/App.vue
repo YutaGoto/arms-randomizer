@@ -1,12 +1,17 @@
 <template>
   <div id="app">
-    <router-view/>
+    <Arms msg="Welcome to Your Vue.js App"/>
   </div>
 </template>
 
 <script>
+import Arms from './components/Arms.vue'
+
 export default {
-  name: 'App'
+  name: 'App',
+  components: {
+    Arms
+  }
 }
 </script>
 
@@ -16,7 +21,7 @@ html, body {
 }
 
 #app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
