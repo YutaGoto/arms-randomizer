@@ -28,7 +28,7 @@
 import arms from '../assets/data.json'
 
 export default {
-  name: 'HelloWorld',
+  name: 'Arms',
   data () {
     return {
       msg: 'ARMS Randomizer',
