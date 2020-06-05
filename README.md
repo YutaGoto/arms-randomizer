@@ -1,4 +1,6 @@
-# hello
+# arms-randomizer
+
+[![Actions Status](https://github.com/YutaGoto/arms-randomizer/workflows/vue-ci/badge.svg)](https://github.com/YutaGoto/arms-randomizer/actions)
 
 ## Project setup
 ```
@@ -20,5 +22,8 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Attention
+
+このリポジトリは非公式のもので、完全に個人的な趣味で作っているものです。
+
+公式とは一切関係がありません。
