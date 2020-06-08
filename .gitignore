@@ -12,3 +12,7 @@ yarn-error.log*
 *.ntvs*
 *.njsproj
 *.sln
+
+# Cypress fails
+cypress/screenshots/*
+cypress/videos/*

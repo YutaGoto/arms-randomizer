@@ -22,3 +22,7 @@ jobs:
       run: yarn
     - name: Lint
       run: yarn lint
+    - name: Browser Testing
+      uses: cypress-io/github-action@v1
+      with:
+        start: yarn serve
